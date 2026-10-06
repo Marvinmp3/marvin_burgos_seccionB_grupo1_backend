@@ -1,0 +1,2 @@
+-Marvin Javier Perez Molina (Backend)
+-Diego Alejdrando Palacios Burgos (Frontend)
